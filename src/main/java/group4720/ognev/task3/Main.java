@@ -1,2 +1,4 @@
-package group4720.ognev.task3;public class Main {
+package group4720.ognev.task3;
+
+public class Main {
 }
