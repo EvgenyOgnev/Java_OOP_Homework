@@ -15,8 +15,6 @@ public class Logger {
 
     private static final String LOG_FILE_NAME = "log.txt";
 
-
-
     public void log(String message) {
 
         try (BufferedWriter writer = new BufferedWriter(new FileWriter(LOG_FILE_NAME, true))) {
